@@ -64,5 +64,4 @@ Wikipedia-Search/
 ## 🚀 Deployment
 
 This web app can be deployed on **Vercel** any static hosting service for instant online access.
-
-🔗 **Live Demo:** []
+🔗 **Live Demo:** [https://wikipedia-search-application-javasc.vercel.app/]
